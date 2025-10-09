@@ -14,12 +14,12 @@ external JSObject get _window;
 @JS('Function')
 external Object _jsFunctionConstructor(String code);
 
-class CustomerIOWeb extends CustomerIOPlatform {
+class CustomerIOWebPlugin extends CustomerIOPlatform {
   String? _currentUserId;
   late final CustomerIOConfig _config;
 
   static void registerWith(Registrar registrar) {
-    CustomerIOPlatform.instance = CustomerIOWeb();
+    CustomerIOPlatform.instance = CustomerIOWebPlugin();
   }
 
 

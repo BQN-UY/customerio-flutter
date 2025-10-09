@@ -20,6 +20,6 @@ flutter:
     implements: customer_io
     platforms:
       web:
-        pluginClass: CustomerIOWeb
+        pluginClass: CustomerIOWebPlugin
         fileName: customer_io_web.dart
 
