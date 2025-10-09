@@ -1,33 +1,3 @@
-## [2.9.0](https://github.com/customerio/customerio-flutter/compare/2.8.0...2.9.0) (2025-10-08)
-
-### Features
-
-* in-app anonymous support  ([#289](https://github.com/customerio/customerio-flutter/issues/289)) ([47f1918](https://github.com/customerio/customerio-flutter/commit/47f1918562a498117952bd77163398f9ec529133))
-
-## [2.8.0](https://github.com/customerio/customerio-flutter/compare/2.7.0...2.8.0) (2025-10-07)
-
-### Features
-
-* Improve push notificaiton delivery receipts delay ([#287](https://github.com/customerio/customerio-flutter/issues/287)) ([4503048](https://github.com/customerio/customerio-flutter/commit/4503048d98613664888b9f60e1a4ca75690d9270))
-
-## [2.7.0](https://github.com/customerio/customerio-flutter/compare/2.6.1...2.7.0) (2025-10-03)
-
-### Features
-
-* Upgrade Kotlin and AGP versions ([#284](https://github.com/customerio/customerio-flutter/issues/284)) ([ed9da81](https://github.com/customerio/customerio-flutter/commit/ed9da81ad05500e07224391e696f725cc75d4b76))
-
-## [2.6.1](https://github.com/customerio/customerio-flutter/compare/2.6.0...2.6.1) (2025-09-29)
-
-### Bug Fixes
-
-* Upgrade Android compileSdk to 34 ([#282](https://github.com/customerio/customerio-flutter/issues/282)) ([9a29530](https://github.com/customerio/customerio-flutter/commit/9a29530c9fb0646926429205fa7b875bc3701cdc))
-
-## [2.6.0](https://github.com/customerio/customerio-flutter/compare/2.5.0...2.6.0) (2025-09-16)
-
-### Features
-
-* support for xcode 26 ([#280](https://github.com/customerio/customerio-flutter/issues/280)) ([70c78cc](https://github.com/customerio/customerio-flutter/commit/70c78cc7c93751f5404d580d1a466416f4466dc4))
-
 ## [2.5.0](https://github.com/customerio/customerio-flutter/compare/2.4.3...2.5.0) (2025-08-27)
 
 ### Features

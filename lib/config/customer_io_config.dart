@@ -6,6 +6,7 @@ import 'push_config.dart';
 class CustomerIOConfig {
   final String source = 'Flutter';
   final String version = plugin_info.version;
+  final String jsKey;
 
   final String cdpApiKey;
   final String? migrationSiteId;
@@ -23,6 +24,7 @@ class CustomerIOConfig {
 
   CustomerIOConfig({
     required this.cdpApiKey,
+    required this.jsKey,
     this.migrationSiteId,
     this.region,
     this.logLevel,
